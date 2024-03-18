@@ -1,0 +1,8 @@
+[fight0 [slug,zombie] ][][][][][][][room0 [candlestick,tree] ]
+[][][room1 [tree,box] ][][][][][]
+[][chest][question][][][fight1 [ghost,zombie] ][room2 [chest,tree] ][]
+[room3 [box,chest] ][][][][][][][]
+[][room4 [tree,box] ][][][][][][]
+[][][][][fight2 [skeletonWarrior,slug] ][fight3 [slug,ghost] ][][question]
+[][][room5 [chest,chest] ][][][][][]
+[][][][][][][][]

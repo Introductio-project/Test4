@@ -1,0 +1,17 @@
+sun.jws.version.2
+sun.jws.altText=If you had a java-enabled browser, you would see an applet here.
+sun.jws.alignment=Top
+sun.jws.classname=CustomButton
+sun.jws.useVisual=false
+sun.jws.height=60
+sun.jws.type=applet
+sun.jws.instance=CustomButton
+sun.jws.options=-g
+sun.jws.width=400
+sun.jws.files=List
+CustomButton.java
+EndOfList
+sun.jws.altHTML=List
+<hr>If your browser recognized the applet tag, 
+you would see an applet here.<hr>
+EndOfList
